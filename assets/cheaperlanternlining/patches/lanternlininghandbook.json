@@ -1,0 +1,8 @@
+[
+    {
+        "op": "replace",
+        "path": "/attributesByType/*-up/handbook/extraSections/0/text",
+        "value": "cheaperlanternlining:lantern-handbook-help-text-lining",
+        "file": "game:blocktypes/metal/lantern.json"
+    }
+]

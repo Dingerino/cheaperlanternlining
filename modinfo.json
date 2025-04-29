@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "cheaperlanternlining",
+    "name": "Cheaper Lantern Lining",
+    "authors": [
+        "Dinger"
+    ],
+    "description": "Adds gold, silver, and electrum lining to line lanterns instead of plates.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.20.0"
+    }
+}

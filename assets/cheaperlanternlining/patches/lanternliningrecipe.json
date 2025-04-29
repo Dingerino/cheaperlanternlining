@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/1/ingredients/L/code",
+        "value": "cheaperlanternlining:lanternlining-gold",
+        "file": "game:recipes/grid/lantern.json"
+    },
+    {
+        "op": "replace",
+        "path": "/2/ingredients/L/code",
+        "value": "cheaperlanternlining:lanternlining-silver",
+        "file": "game:recipes/grid/lantern.json"
+    },
+  {
+    "op": "replace",
+    "path": "/3/ingredients/L/code",
+    "value": "cheaperlanternlining:lanternlining-electrum",
+    "file": "game:recipes/grid/lantern.json"
+  },
+    {
+        "op": "replace",
+        "path": "/5/ingredients/L/code",
+        "value": "cheaperlanternlining:lanternlining-gold",
+        "file": "game:recipes/grid/lantern.json"
+    },
+    {
+        "op": "replace",
+        "path": "/6/ingredients/L/code",
+        "value": "cheaperlanternlining:lanternlining-silver",
+        "file": "game:recipes/grid/lantern.json"
+    },
+    {
+        "op": "replace",
+        "path": "/7/ingredients/L/code",
+        "value": "cheaperlanternlining:lanternlining-electrum",
+        "file": "game:recipes/grid/lantern.json"
+    }
+]

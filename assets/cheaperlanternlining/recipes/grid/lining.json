@@ -1,0 +1,36 @@
+[
+  {
+    "ingredientPattern": "H,I",
+    "ingredients": {
+      "H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 32 },
+      "I": { "type": "item", "code": "game:ingot-*", "name": "metal", "allowedVariants": ["gold", "silver", "electrum"] }
+    },
+    "width": 1,
+    "height": 2,
+	"shapeless": false,
+    "output": { "type": "item", "code": "lanternlining-{metal}", "quantity": 4 }
+  },
+  {
+    "ingredientPattern": "H,P",
+    "ingredients": {
+      "H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 16 },
+      "P": { "type": "item", "code": "game:metalplate-*", "name": "metal", "allowedVariants": ["gold", "silver", "electrum"] }
+    },
+    "width": 1,
+    "height": 2,
+	"shapeless": false,
+    "output": { "type": "item", "code": "lanternlining-{metal}", "quantity": 8 }
+  },
+  
+  {
+    "ingredientPattern": "C,L",
+    "ingredients": {
+      "C": { "type": "item", "code": "game:chisel-*", "isTool": true},
+      "L": { "type": "item", "code": "lanternlining-*", "name": "metal", "allowedVariants": ["gold", "silver", "electrum"] }
+    },
+    "width": 1,
+    "height": 2,
+	"shapeless": false,
+    "output": { "type": "item", "code": "game:metalbit-{metal}", "quantity": 5 }
+  }
+]

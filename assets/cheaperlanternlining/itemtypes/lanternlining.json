@@ -1,0 +1,33 @@
+{
+    "code": "lanternlining",
+    "class": "cheaperlanternlining.itemlining",
+    "description": "A cheaper method of lining for lanterns, crafted from gold, silver, or electrum plates.",
+    "creativeinventory": { "general": [ "*" ], "items": [ "*" ] },
+    "variantgroups": [ { "code": "metal", "states": [ "gold", "silver", "electrum" ] } ],
+    "fpHandTransform": {
+        "translation": { "x": -0.35, "y": -0.15, "z": 0 },
+        "rotation": { "x": 0, "y": 0, "z": 79 },
+        "scale": 1.8
+    },
+    "groundTransform": {
+        "translation": { "x": 0, "y": 0, "z": 0 },
+        "rotation": { "x": 0, "y": 90, "z": 0 },
+        "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+        "scale": 3.31
+    },
+    "guiTransform": {
+        "translation": { "x": 3, "y": 0, "z": 0 },
+        "rotation": { "x": -30, "y": -44, "z": -180 },
+        "origin": { "x": 0.5, "y": 0.0625, "z": 0.5 },
+        "scale": 1.85
+    },
+    "maxstacksize": 16,
+    "shape": { "base": "cheaperlanternlining:item/lanternlining" },
+    "textures": { "metal": { "base": "game:block/metal/plate/{metal}" } },
+    "tpHandTransform": {
+        "translation": { "x": -0.7, "y": 0.1, "z": -0.53 },
+        "rotation": { "x": 94, "y": 0, "z": 0 },
+        "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+        "scale": 0.75
+    }
+}

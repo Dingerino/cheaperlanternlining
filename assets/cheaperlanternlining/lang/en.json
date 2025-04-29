@@ -1,0 +1,7 @@
+{
+	"itemdesc-lanternlining-*": "Lining for lanterns. Makes them a little brighter.",
+	"item-lanternlining-electrum": "Electrum lining",
+	"item-lanternlining-gold": "Gold lining",
+	"item-lanternlining-silver": "Silver lining",
+	"lantern-handbook-help-text-lining": "You can add a gold, silver or electrum lining to a lantern by placing it on the ground, and <hk>rightmouse</hk> clicking with a gold, silver or electrum lining. This will slightly increase the light radius.<br><br><strong>Glass Panes</strong><br>You can also change the color of glass panes by placing the lantern, and <hk>rightmouse</hk> clicking with the new glass. This will swap the glass in hand, for the glass in the lantern. If the lantern has clear quartz panes, you will not get the clear quartz back.",
+}
